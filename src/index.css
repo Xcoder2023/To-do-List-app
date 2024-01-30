@@ -28,9 +28,3 @@ input:focus{
   box-shadow: none !important;
   outline: none;
 }
-
-@media screen and (max-width:768px) {
-  .login.active {
-    left: 1%;
-  }
-}
