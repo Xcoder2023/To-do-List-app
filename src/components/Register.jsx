@@ -30,11 +30,11 @@ const Register = () => {
         </div>
         <div className=" flex flex-col items-center m-auto  mt-10 gap-12 p-4 shadow-xl">
           <p className=" text-[rgb(62,180,158)] text-[30px]">Create Account</p>
-          <form action="" className=" flex flex-col gap-10">
+          <form action="" className="flex flex-col gap-10">
             <input
               type="text"
               placeholder="UserName"
-              className="bg-[rgb(241,245,244)] p-4 w-[20rem]"
+              className="bg-[rgb(241,245,244)] p-4 w-[20rem] "
               required
             />
             <input

@@ -24,10 +24,13 @@ body {
 .create.active {
   left: 0%;
 }
-
+input:focus{
+  box-shadow: none !important;
+  outline: none;
+}
 
 @media screen and (max-width:768px) {
   .login.active {
-    left: 3%;
+    left: 1%;
   }
 }

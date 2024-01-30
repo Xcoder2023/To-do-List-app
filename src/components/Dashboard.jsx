@@ -49,7 +49,7 @@ const Dashboard = () => {
                 <input
                   type="text"
                   placeholder="search"
-                  className=" p-1 text-black"
+                  className=" p-1 text-black w-[100%]"
                 />
                 <button>
                   <IoSearchOutline />
